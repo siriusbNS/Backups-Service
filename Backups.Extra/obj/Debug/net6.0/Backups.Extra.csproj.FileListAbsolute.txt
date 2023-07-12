@@ -1,0 +1,15 @@
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab5/Backups.Extra/bin/Debug/net6.0/Backups.Extra.deps.json
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab5/Backups.Extra/bin/Debug/net6.0/Backups.Extra.dll
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab5/Backups.Extra/bin/Debug/net6.0/Backups.Extra.pdb
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab5/Backups.Extra/bin/Debug/net6.0/Backups.dll
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab5/Backups.Extra/bin/Debug/net6.0/Backups.pdb
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab5/Backups.Extra/obj/Debug/net6.0/Backups.Extra.csproj.AssemblyReference.cache
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab5/Backups.Extra/obj/Debug/net6.0/Backups.Extra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab5/Backups.Extra/obj/Debug/net6.0/Backups.Extra.AssemblyInfoInputs.cache
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab5/Backups.Extra/obj/Debug/net6.0/Backups.Extra.AssemblyInfo.cs
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab5/Backups.Extra/obj/Debug/net6.0/Backups.Extra.csproj.CoreCompileInputs.cache
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab5/Backups.Extra/obj/Debug/net6.0/Backups.Extra.csproj.CopyComplete
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab5/Backups.Extra/obj/Debug/net6.0/Backups.Extra.dll
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab5/Backups.Extra/obj/Debug/net6.0/refint/Backups.Extra.dll
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab5/Backups.Extra/obj/Debug/net6.0/Backups.Extra.pdb
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab5/Backups.Extra/obj/Debug/net6.0/ref/Backups.Extra.dll

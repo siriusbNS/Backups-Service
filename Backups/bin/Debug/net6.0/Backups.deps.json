@@ -1,0 +1,66 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Backups/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.2",
+          "StyleCop.Analyzers": "1.1.118",
+          "Zio": "0.15.0"
+        },
+        "runtime": {
+          "Backups.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.2": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.2.27524"
+          }
+        }
+      },
+      "StyleCop.Analyzers/1.1.118": {},
+      "Zio/0.15.0": {
+        "runtime": {
+          "lib/net6.0/Zio.dll": {
+            "assemblyVersion": "0.15.0.0",
+            "fileVersion": "0.15.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Backups/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R2pZ3B0UjeyHShm9vG+Tu0EBb2lC8b0dFzV9gVn50ofHXh9Smjk6kTn7A/FdAsC8B5cKib1OnGYOXxRBz5XQDg==",
+      "path": "newtonsoft.json/13.0.2",
+      "hashPath": "newtonsoft.json.13.0.2.nupkg.sha512"
+    },
+    "StyleCop.Analyzers/1.1.118": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Onx6ovGSqXSK07n/0eM3ZusiNdB6cIlJdabQhWGgJp3Vooy9AaLS/tigeybOJAobqbtggTamoWndz72JscZBvw==",
+      "path": "stylecop.analyzers/1.1.118",
+      "hashPath": "stylecop.analyzers.1.1.118.nupkg.sha512"
+    },
+    "Zio/0.15.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tBxkD9ZEXkVBwGZPvsb/8HoQRTFGHXn2HWL2UO9V4gmzKbGEf9SB48i78oC+2JfTYtWe/H/eASSapNz7WTd4pg==",
+      "path": "zio/0.15.0",
+      "hashPath": "zio.0.15.0.nupkg.sha512"
+    }
+  }
+}
